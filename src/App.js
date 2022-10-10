@@ -12,7 +12,9 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center"><small>Coded by Nadiia Kotolup</small></footer>
+        <footer className="text-center">
+          <small>Coded by Nadiia Kotolup</small>
+        </footer>
       </div>
     </div>
   );
