@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   max-width: 200px;
@@ -11,7 +9,7 @@
 
 .App-header {
   margin: 30px 0;
-
+text-align: center;
 }
 
 .App-footer {
