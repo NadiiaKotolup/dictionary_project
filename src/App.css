@@ -1,18 +1,19 @@
 
+a {
+  color: #9c3703;
+}
 
 .App-logo {
   max-width: 200px;
   margin: block;
   display: 0 auto;
-
 }
 
 .App-header {
   margin: 30px 0;
-text-align: center;
+  text-align: center;
 }
 
 .App-footer {
- 
   margin: 30px 0;
 }
