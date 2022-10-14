@@ -14,7 +14,7 @@ export default function Dictionary(props) {
     setResults(response.data[0]);
   }
   function handlePexelsResponse(response) {
-    console.log(response.data.photos);
+    setPhotos(response.data.photos);
   }
   function search() {
     // documentation: https://api.dictionaryapi.dev/api/v2/entries/en/hello
